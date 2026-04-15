@@ -7,4 +7,4 @@
     dsvgc:has-configurations :data-specification.
 :data-specification a <https://dataspecer.com/work-in-progress/generator-configuration/configuration-entry/>;
     dsvgc:has-configuration-type ce:data-specification;
-    kv:publicBaseUrl "\"https://mff-uk.github.io/data-specification-vocabulary/dsv/\"".
+    kv:publicBaseUrl "\"https://mff-uk.github.ioadas/data-specification-vocabulary/dsv/\"".
